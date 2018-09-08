@@ -1,0 +1,11 @@
+l=int(input(""))
+flag=l
+abc=0
+while(l>0):
+    mod=l%10
+    abc=abc*10+mod
+    l=l//10
+if(flag==abc):
+    print("yes")
+else:
+    print("no")
