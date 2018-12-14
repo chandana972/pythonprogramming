@@ -1,5 +1,5 @@
-a=int(input( ))
-b=int(input( ))
-c=int(input( ))
+a=int(raw_input( ))
+b=int(raw_input( ))
+c=int(raw_input( ))
 d=(a*b)/c
 print(d)
