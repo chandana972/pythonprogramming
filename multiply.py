@@ -1,5 +1,5 @@
-a=int(raw_input( ))
-b=int(raw_input( ))
-c=int(raw_input( ))
-d=(a*b)/c
-print(d)
+k=int(raw_input( ))
+l=int(raw_input( ))
+m=int(raw_input( ))
+n=(k*l)/m
+print(n)
