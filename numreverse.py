@@ -1,3 +1,3 @@
-f=input()
-e=f[::-1]
+N=input()
+e=N[::-1]
 print(e)
