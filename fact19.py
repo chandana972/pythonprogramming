@@ -1,10 +1,10 @@
-fact = 1
-N=int(input())
-if N < 0:
+factorial = 1
+num=int(input())
+if num < 0:
    print("invalid")
-elif N == 0:
+elif num == 0:
    print("",1)
 else:
-   for i in range(1,N + 1):
-       fact = fact*i
-   print(fact)
+   for i in range(1,num + 1):
+       factorial = factorial*i
+   print(factorial)
