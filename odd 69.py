@@ -1,6 +1,6 @@
-n,k=map(int,input().split())
-j=int(n)+int(k)
-if j%2==0:
+o,p=map(int,input().split())
+f=int(o)-int(p)
+if f%2==0:
   print("even",end="")
 else:
   print("odd",end="")
