@@ -6,6 +6,6 @@ k.sort()
 s1=''.join(j)
 s2=''.join(k)
 if(s2 in s1):
-  print("yes",end="")
+  print("YES",end="")
 else:
-  print("no",end="")
+  print("NO",end="")
